@@ -19,14 +19,19 @@
                     "time": "9:00 AM"
                 },
                 {
-                   "title": "Disneyland",
+                    "title": "Disneyland",
                     "time": "10:00 AMs"
                 }
-
+            ],
+            "transportation": [
+                {
+                    "mode": "bicycle",
+                    "cost": "$1000.00"
+                }
             ]
         },
         {
-             "location": "Las Vegas ",
+            "location": "Las Vegas ",
             "arrivalDate": "03-08-2025",
             "departureDate": "03-12-2025",
             "activities": [
@@ -35,14 +40,37 @@
                     "time": "5:00 PM"
                 },
                 {
-                   "title": "Museum of Illisions",
-                    "time": "12:00 PM" 
+                    "title": "Museum of Illisions",
+                    "time": "12:00 PM"
                 }
-
+            ],
+            "transportation": [
+                {
+                    "mode": "airplane",
+                    "cost": "$2000.00"
+                }
+            ]
+        },
+        {
+            "location": "San Francisco",
+            "arrivalDate": "03/13/2025",
+            "departureDate": "3/17/2025",
+            "activities": [
+                {
+                    "title": "Golden Gate Bridge",
+                    "time": "11:00AM"
+                },
+                {
+                    "title": "Yosemite Trail",
+                    "time": "8:00AM"
+                }
+            ],
+            "transportation": [
+                {
+                    "mode": "car",
+                    "cost": "$1500.00"
+                }
             ]
         }
-
     ]
-        
-    
 }
